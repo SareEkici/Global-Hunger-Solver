@@ -4,38 +4,31 @@ AI-powered platform to match surplus food to regions in need and optimize global
 
 ---
 
-## Proje Hakkında
+## About the Project
 
-**Hunger Solver**, yapay zeka destekli bir platform olup, dünya genelinde fazla gıda kaynaklarını ihtiyaç duyulan bölgelere yönlendirerek açlık ve gıda israfı sorunlarına sürdürülebilir çözümler sunmayı amaçlamaktadır.  
+Hunger Solver is an AI-powered platform designed to reduce global food waste and help combat hunger around the world.
 
-Bu proje, veri analizi ve makine öğrenimi teknikleriyle bölgesel ihtiyaçları belirler, tedarikçiler ile ihtiyaç sahipleri arasında en uygun eşleşmeleri sağlar ve lojistik süreçleri optimize eder.
-
----
-
-## Özellikler
-
-- **Fazla Gıda Tespiti:** Farklı kaynaklardan gelen fazla gıda verilerini toplar ve analiz eder.  
-- **İhtiyaç Analizi:** Açlık sorunu yaşanan bölgelerin ihtiyaçlarını yapay zeka ile belirler.  
-- **Akıllı Eşleştirme:** Gıda tedarikçileri ile ihtiyaç sahiplerini en verimli şekilde eşleştirir.  
-- **Lojistik Optimizasyonu:** Nakliye rotalarını ve dağıtım süreçlerini optimize ederek zaman ve maliyet tasarrufu sağlar.  
-- **Gerçek Zamanlı İzleme:** Dağıtım süreçlerinin takibini ve performans ölçümünü sağlar.  
+While millions of tons of food are wasted every year, many regions still face serious food shortages. This project aims to bridge that gap by efficiently redirecting surplus food to the areas that need it most.
 
 ---
 
-## Teknolojiler
+## Our Solution
 
-- Python  
-- TensorFlow / PyTorch (yapay zeka modelleri için)  
-- Flask / Django (backend)  
-- PostgreSQL / MongoDB (veri tabanı)  
-- Docker (konteyner yönetimi)  
-- Git & GitHub (versiyon kontrolü)  
+Our platform analyzes surplus food sources and areas in need using a data-driven approach. AI algorithms consider the quantity, type, and expiration dates of surplus food to match it with regions facing shortages in the most effective way.
+
+By doing so, we reduce food waste and ensure that resources are utilized where they have the greatest impact. Additionally, logistics processes are optimized to minimize transportation costs and delivery times.
 
 ---
 
-## Kurulum
+## Role of Artificial Intelligence
 
-1. Depoyu klonlayın:  
-```bash
-git clone https://github.com/kullaniciadi/hunger-solver.git
-cd hunger-solver
+Artificial intelligence helps by analyzing large and complex datasets to:
+
+- Predict the amounts and types of surplus food available,  
+- Assess the hunger levels and demand in different regions,  
+- Match suppliers of surplus food with recipients in need efficiently,  
+- Optimize shipping routes and delivery schedules.  
+
+This approach enables faster and more accurate decision-making in situations where human capacity is limited by data complexity and scale.
+
+---
